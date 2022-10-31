@@ -1,0 +1,10 @@
+31/10/2022
+
+Version 5 programa USI.
+
+Incluye:
+- Pantalla tactil tft touch 2.4"
+- Cerradura electronica
+- Generacion de codigo para pwa beneficios
+
+Carpeta "Librerias" contiene las dependencias necesarias. Recordar actualizar si hay cambios o modificaciones.
