@@ -627,6 +627,8 @@ void loop() {
         nivelCm = sonar.convert_cm(sonar.ping_median(10));  
         ambiente.info.nivel=aPorcentaje(nivelCm);
 
+        // Sumar posibles botellas ingresadas? Guardar en EEPROM ?
+
         // Actualizar a pantalla principal:
         pantallaPrincipal(ambiente.info.nivel, ambiente.info.cantBotellas, simStatus);
 
